@@ -3,8 +3,8 @@ Copyright © 2024 NAME HERE IANFERGUSONRVA@gmail.com
 */
 package main
 
-import "howdy/cmd"
+import howdy "github.com/IanRFerguson/howdy/cmd"
 
 func main() {
-	cmd.Execute()
+	howdy.Execute()
 }
