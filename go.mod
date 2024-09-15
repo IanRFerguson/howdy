@@ -1,4 +1,4 @@
-module howdy
+module "github.com/IanRFerguson/howdy"
 
 go 1.22.1
 
