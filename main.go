@@ -1,5 +1,5 @@
 /*
-Copyright © 2024 NAME HERE IANFERGUSONRVA@gmail.com
+Copyright © 2024 IAN RICHARD FERGUSON IANFERGUSONRVA@gmail.com
 */
 package main
 
